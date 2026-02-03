@@ -1,7 +1,6 @@
 # Jawaban Tes Teknis Fullstack Developer
 
 Repository ini berisi jawaban untuk **Soal Mini Project (Nomor 6)** yaitu implementasi Frontend sederhana menggunakan **React (Vite) + TypeScript**.
-Jawaban untuk soal teori (Nomor 1-4) dan penjelasan backend (Nomor 5) juga disertakan di bawah ini.
 
 ## Tech Stack (Jawaban Soal 6)
 **Frontend Framework & Library:**
